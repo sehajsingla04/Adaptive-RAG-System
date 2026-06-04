@@ -1,0 +1,13 @@
+python-dotenv
+pydantic
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-text-splitters
+langgraph
+faiss-cpu
+pypdf
+tavily-python
+jupyter
+notebook
