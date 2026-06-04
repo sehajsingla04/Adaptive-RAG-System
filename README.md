@@ -1,4 +1,4 @@
-# Adaptive Retrieval Intelligence System
+# Adaptive Retrieval System
 
 An advanced Retrieval-Augmented Generation (RAG) framework that improves answer quality through retrieval evaluation, query refinement, and dynamic web augmentation.
 
@@ -156,9 +156,7 @@ adaptive-rag-system/
 |   +-- 05_Adaptive_RAG_Final.ipynb
 |
 +-- documents/
-|   +-- book1.pdf
-|   +-- book2.pdf
-|   +-- book3.pdf
+|   # Not included in repository (due to size constraints)
 |
 +-- requirements.txt
 +-- README.md
